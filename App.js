@@ -1,0 +1,1 @@
+// Exemple simplifié de composant React
